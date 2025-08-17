@@ -970,13 +970,13 @@ entries:
         anilist-id: 5114
 
   - title: "Gachiakuta"
-  guid: "plex://show/666b617d8e424828556e01cf"
-  # imdb: https://www.imdb.com/title/tt32612521/
-  # tmdb: https://www.themoviedb.org/tv/256721
-  # tvdb: https://www.thetvdb.com/dereferrer/series/450537
-  seasons:
-    - season: 1
-      anilist-id: 178025
+    guid: "plex://show/666b617d8e424828556e01cf"
+    # imdb: https://www.imdb.com/title/tt32612521/
+    # tmdb: https://www.themoviedb.org/tv/256721
+    # tvdb: https://www.thetvdb.com/dereferrer/series/450537
+    seasons:
+      - season: 1
+        anilist-id: 178025
 
   - title: "Ghost in the Shell: SAC_2045"
     guid: plex://show/62e293f73fc724eff6185850
