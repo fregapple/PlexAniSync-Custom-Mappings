@@ -1026,14 +1026,14 @@ entries:
       - season: 1
         anilist-id: 5114
 
-  # - title: "Gachiakuta"
-  #   guid: "plex://show/666b617d8e424828556e01cf"
-  #   # imdb: https://www.imdb.com/title/tt32612521/
-  #   # tmdb: https://www.themoviedb.org/tv/256721
-  #   # tvdb: https://www.thetvdb.com/dereferrer/series/450537
-  #   seasons:
-  #     - season: 1
-  #       anilist-id: 178025
+  - title: "Gachiakuta"
+    guid: plex://show/666b617d8e424828556e01cf
+    # imdb: https://www.imdb.com/title/tt32612521/
+    # tmdb: https://www.themoviedb.org/tv/256721
+    # tvdb: https://www.thetvdb.com/dereferrer/series/450537
+    seasons:
+      - season: 1
+        anilist-id: 178025
 
   - title: "Ghost in the Shell: Stand Alone Complex"
     guid: plex://show/5d9c086b705e7a001e6dbd86
