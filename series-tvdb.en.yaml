@@ -2437,8 +2437,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 177709
-      - season: 2
+      - season: 1
         anilist-id: 184237
+        start: 12
 
   - title: "Scott Pilgrim Takes Off"
     guid: plex://show/61dd97c364b2acfab575e1c3
